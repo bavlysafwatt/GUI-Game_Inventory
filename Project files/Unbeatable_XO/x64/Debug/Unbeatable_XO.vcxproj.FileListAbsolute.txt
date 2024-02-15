@@ -1,0 +1,7 @@
+D:\GUI_Projects\Unbeatable_XO\Unbeatable_XO\x64\Debug\Unbeatable_XO.vcxproj.AssemblyReference.cache
+D:\GUI_Projects\Unbeatable_XO\Unbeatable_XO\x64\Debug\UnbeatableXO.Start.resources
+D:\GUI_Projects\Unbeatable_XO\Unbeatable_XO\x64\Debug\Unbeatable_XO.vcxproj.GenerateResource.cache
+D:\GUI_Projects\Unbeatable_XO\Unbeatable_XO\x64\Debug\UnbeatableXO.Three_XO.resources
+D:\GUI_Projects\Unbeatable_XO\Unbeatable_XO\x64\Debug\UnbeatableXO.Pyramid_XO.resources
+D:\GUI_Projects\Unbeatable_XO\Unbeatable_XO\x64\Debug\UnbeatableXO.Four_XO.resources
+D:\GUI_Projects\Unbeatable_XO\Unbeatable_XO\x64\Debug\UnbeatableXO.Five_XO.resources
